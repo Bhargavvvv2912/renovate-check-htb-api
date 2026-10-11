@@ -5,7 +5,7 @@ pytest-cov==3.0.0
 pytest-xdist==2.5.0
 Sphinx==4.4.0
 sphinx-rtd-theme==1.0.0
-python-dateutil==2.8.2
+python-dateutil==2.9.0.post0
 twine
 werkzeug==2.0.0
 flask==2.0.3
